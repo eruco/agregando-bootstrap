@@ -3827,6 +3827,8 @@ textarea.form-control-lg {
 
 .btn-group,
 .btn-group-vertical {
+  padding-bottom: 40vh;
+  margin: 5vh;
   position: relative;
   display: inline-flex;
   vertical-align: middle;
