@@ -5978,7 +5978,7 @@ textarea.form-control-lg {
   color: #212529;
 }
 
-.carousel {
+.carousel {padding: 20vh;
   position: relative;
 }
 
